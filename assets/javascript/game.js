@@ -36,18 +36,20 @@ document.onkeyup = function (event) {
         document.getElementById("guessesSoFar").textContent = "Your Guesses So Far: " + guessesSoFar;
 
 
-    
-    if (guessesLeft <= 0) {
-        alert("Sorry You Lost");
-        losses++
-        document.getElementById("losses").textContent = "losses: " + losses;
 
-        newGame();
+        if (guessesLeft <= 0) {
+            alert("Sorry You Lost");
+            losses++
+            document.getElementById("losses").textContent = "losses: " + losses;
+
+            newGame();
+
+        }
+
 
     }
-
-
 }
+
 
 function newGame() {
     guessesLeft = 9;
