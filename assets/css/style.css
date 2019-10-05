@@ -1,0 +1,25 @@
+.middle-container {
+    text-align: center;
+    background-image: url(https://www.lightofmind.com/wp-content/uploads/2017/01/Psychic-Moon-head-680x380.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+    
+    
+    
+    
+}
+
+p {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.lead {
+    text-align: center;
+
+}
