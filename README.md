@@ -1,3 +1,4 @@
+![guessing game pic](https://user-images.githubusercontent.com/53352836/72308730-06a2c880-364b-11ea-899f-5b041072ce5f.PNG)
 
 # The Psychic Game
 This game was built with vanilla JavaScript.
