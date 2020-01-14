@@ -1,14 +1,14 @@
-The Psychic Game
+#The Psychic Game
 This game was built with vanilla JavaScript.
 
 FUTURE REFERENCE: This game can only be played with a desktop or a laptop. Mobile use is currently unavailable.
 
-Technologies
-HTML
+##Technologies
+*HTML
 
-CSS
+*CSS
 
-JavaScript
+*JavaScript
 
 Instructions
 The computer will randomly choose a letter from the alphabet. The goal of the game is for the user to guess the letter the computer is "thinking" by pressing a key on the keyboard.
