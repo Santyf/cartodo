@@ -10,7 +10,7 @@ This game was built with vanilla JavaScript.
 
 * JavaScript
 
-Instructions
+## Instructions
 The computer will randomly choose a letter from the alphabet. The goal of the game is for the user to guess the letter the computer is "thinking" by pressing a key on the keyboard.
 
 The user will have 10 chances to guess the correct letter, otherwise it will count as a loss and it will add +1 to losses. The game will output each incorrect guess the user makes.
