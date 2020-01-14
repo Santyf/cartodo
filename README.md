@@ -22,6 +22,6 @@ The game will prevent the user from making any guesses that aren't letters from 
 
 Each time the user wins or loses, the game will restart without reloading the page. However, if you want to restart the winning and losing score then you're going to need to refresh the page.
 
-Play here!
+## Play here!
 
 https://santyf.github.io/cartodo/
